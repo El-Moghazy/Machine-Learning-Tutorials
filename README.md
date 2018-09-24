@@ -64,7 +64,7 @@ Learning plan for machine learning
     Make an account on kaggle and then choose Kernels from the competition page and from kernels
     choose Notebook
     compare the results from Deep NN from last week with the ConvNet that you will implement this week</td>
-    <td><a href="https://www.coursera.org/learn/convolutional-neural-networks"> Week 1</a> and <a href="https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv"> lectures 5,9 and 11 from this course</a></td>
+    <td><a href="https://www.coursera.org/learn/convolutional-neural-networks"> Week 1</a>     </td>
     <td> HML Chapter 13 </td
   </tr>
       
