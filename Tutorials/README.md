@@ -1,4 +1,4 @@
-<h1> Tutorials to fork and rum on Kaggle servers for free </h1>
+<h1> Tutorials to fork and run on Kaggle servers for free </h1>
 I believe Kaggle is one of the best ways to learn machine learning through competitions, So i made some Tutorials (kernels) using kaggle Notebooks. Kaggle Notebooks are free and much faster than an ordinary laptop as you may choose to use GPU accelerated (tesla k 80) for free
 
 ## Make an account and fork the notebooks. 
