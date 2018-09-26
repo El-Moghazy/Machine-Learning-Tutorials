@@ -71,11 +71,11 @@ Learning plan for machine learning
       
 </table> 
 
-### you can find the full name of the books in the reading tasks here :
-### BOOKS :	PML :	Python Machine Learning 2nd edition			
-### MLA :	Machine Learning Algorithms second edition			
-### MLY :	Machine Learning Yearning			
-### HMLST :	Hands on Machine Learnign with Scikit learnig and tensorflow			
-### DeepLearning	Deep Learning by Ian Goodfellow			
+#### you can find the full name of the books in the reading tasks here :
+#### BOOKS :	PML :	Python Machine Learning 2nd edition			
+#### MLA :	Machine Learning Algorithms second edition			
+#### MLY :	Machine Learning Yearning			
+#### HMLST :	Hands on Machine Learnign with Scikit learnig and tensorflow			
+#### DeepLearning	Deep Learning by Ian Goodfellow			
 
 #### All tutorials here are written by AbdElRhman ElMoghazy.
